@@ -85,10 +85,10 @@ Mi portfolio personal con animaciones fluidas y diseño responsivo.
 
 ## 🤝 Conectemos
 
-- 💼 LinkedIn: [linkedin.com/in/tu-perfil](https://linkedin.com/in/tu-perfil)
-- 🌐 Portfolio: [tu-sitio-web.com](https://tu-sitio-web.com)
-- 📧 Email: tu.email@ejemplo.com
-- 🐦 Twitter: [@tuusuario](https://twitter.com/tuusuario)
+- 💼 LinkedIn: [linkedin.com/in/tu-perfil](https://www.linkedin.com/in/agus-peiretti/)
+- 🌐 Portfolio: [tu-sitio-web.com](http://aguspeiretti.vercel.app)
+- 📧 Email: peiretti.dev@gmail.com
+
 
 ---
 
