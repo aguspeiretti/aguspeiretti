@@ -61,14 +61,21 @@ Mi portfolio personal con animaciones fluidas y diseño responsivo.
 
 ---
 
-## 📊 Mi Actividad en GitHub
+## 📈 Estadísticas de GitHub
 
 <div align="center">
   
-**🏆 Repositorios Públicos:** ![](https://img.shields.io/badge/dynamic/json?color=blue&label=&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Faguspeiretti&style=flat-square)
-**👥 Seguidores:** ![](https://img.shields.io/badge/dynamic/json?color=green&label=&query=%24.followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2Faguspeiretti&style=flat-square)
-**⭐ Stars Totales:** Actualizando...
+  [![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=aguspeiretti&show_icons=true&theme=react&include_all_commits=true&count_private=true)](https://github.com/aguspeiretti)
+  
+  [![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=aguspeiretti&layout=compact&langs_count=8&theme=react)](https://github.com/aguspeiretti)
+  
+</div>
 
+### 🔥 Racha de Commits
+<div align="center">
+  
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=aguspeiretti&theme=react)](https://github.com/aguspeiretti)
+  
 </div>
 
 ---
