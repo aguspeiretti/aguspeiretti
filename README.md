@@ -61,13 +61,14 @@ Mi portfolio personal con animaciones fluidas y diseño responsivo.
 
 ---
 
-## 📈 Estadísticas de GitHub
-
-## 📈 Estadísticas de GitHub
+## 📊 Mi Actividad en GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuusuario&layout=compact&langs_count=7&theme=react"/>
+  
+**🏆 Repositorios Públicos:** ![](https://img.shields.io/badge/dynamic/json?color=blue&label=&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Faguspeiretti&style=flat-square)
+**👥 Seguidores:** ![](https://img.shields.io/badge/dynamic/json?color=green&label=&query=%24.followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2Faguspeiretti&style=flat-square)
+**⭐ Stars Totales:** Actualizando...
+
 </div>
 
 ---
