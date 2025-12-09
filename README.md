@@ -37,29 +37,6 @@
 
 ---
 
-## 🎯 Proyectos Destacados
-
-### 🛍️ [E-Commerce App](https://tu-ecommerce.vercel.app)
-**Tecnologías**: React, TypeScript, Redux Toolkit, Tailwind CSS  
-Una aplicación completa de comercio electrónico con carrito de compras, autenticación y pasarela de pagos.
-- [🔗 Demo en vivo](https://tu-ecommerce.vercel.app) | [📝 Código](https://github.com/tuusuario/ecommerce-app)
-
-### 📊 [Dashboard Analytics](https://tu-dashboard.vercel.app)
-**Tecnologías**: React, Next.js, Chart.js, Material-UI  
-Panel de administración con visualización de datos en tiempo real y métricas interactivas.
-- [🔗 Demo en vivo](https://tu-dashboard.vercel.app) | [📝 Código](https://github.com/tuusuario/analytics-dashboard)
-
-### 🎬 [Movie Finder](https://tu-moviefinder.netlify.app)
-**Tecnologías**: React, React Query, Styled Components  
-Buscador de películas que consume la API de TMDB con funciones de filtrado y favoritos.
-- [🔗 Demo en vivo](https://tu-moviefinder.netlify.app) | [📝 Código](https://github.com/tuusuario/movie-finder)
-
-### 💼 [Portfolio Personal](https://tu-portfolio.com)
-**Tecnologías**: React, Framer Motion, Tailwind CSS  
-Mi portfolio personal con animaciones fluidas y diseño responsivo.
-- [🔗 Demo en vivo](https://tu-portfolio.com) | [📝 Código](https://github.com/tuusuario/portfolio)
-
----
 
 ## 📊 Mi Actividad en GitHub
 
